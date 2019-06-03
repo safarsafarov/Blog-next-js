@@ -4,7 +4,7 @@ export default () => (
   <Layout>
     <section className="section">
       <div className="container">
-        <h1 className="title">Elsewhere</h1>
+        <h1 className="title">About me</h1>
       </div>
     </section>
   </Layout>
